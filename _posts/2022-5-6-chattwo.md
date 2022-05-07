@@ -7,9 +7,4 @@ comments: true
 author: 可爱的嘉心糖捏 
 --- 
 
-<iframe 
-width="400" 
-height="225" 
-src="https://player.bilibili.com/player.html?aid=381826890&bvid=BV19Z4y1k7P7&cid=515826905&page=1"
-frameborder="0" 
-allowfullscreen>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.327%;"><iframe src="https://streamja.com/embed/q5KzX" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;"></iframe></div>
