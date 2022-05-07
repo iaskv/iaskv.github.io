@@ -21,7 +21,7 @@ favicon: https://www.z4a.net/images/2022/05/07/2D7F5548-DAAE-4FB7-8F44-F5CE13991
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: 首页
-    url: /
+    url: /archive
   - name: 关于
     url: /about
   - name: 归档
