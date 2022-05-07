@@ -59,6 +59,13 @@ footer-text: Copyright (c) 2022 iAskv
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
+# Gitalk
+gitalk:
+clientID: 98634a8ad1ef36900630
+clientSecret: e1cb3b9f616e2e017776788a9db7807d13dc2c39
+repo: iaskv.github.io 
+owner: iaskv
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://iaskv.github.io
